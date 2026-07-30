@@ -1,1 +1,1 @@
-# Shizuku.bot
+# Shizuku
